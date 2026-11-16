@@ -1,0 +1,21 @@
+
+    {
+    "diffEditor.experimental.useTrueInlineView": false,
+    "editor.hover.enabled": "on",
+    "editor.parameterHints.enabled": true,
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.completeFunctionParens": true,
+    "editor.quickSuggestions": {
+        "other": "off",
+        "comments": "off",
+        "strings": "off"
+    },
+    "editor.suggestOnTriggerCharacters": false,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "python.defaultInterpreterPath": "${workspaceFolder}/torch_keras_venv/bin/python",
+}
