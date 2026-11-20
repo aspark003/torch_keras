@@ -6,9 +6,9 @@
     "python.analysis.autoImportCompletions": true,
     "python.analysis.completeFunctionParens": true,
     "editor.quickSuggestions": {
-        "other": "off",
-        "comments": "off",
-        "strings": "off"
+        "other": "on",
+        "comments": "on",
+        "strings": "on"
     },
     "editor.suggestOnTriggerCharacters": false,
     "github.copilot.enable": {
@@ -16,6 +16,6 @@
         "plaintext": false,
         "markdown": false,
         "scminput": false
-    },
-    "python.defaultInterpreterPath": "${workspaceFolder}/torch_keras_venv/bin/python",
+    }
+    
 }
